@@ -1,8 +1,0 @@
-C:\Users\danhn\OneDrive\Máy tính\auto\shopee\shopeeTest\shopeeTest\bin\Debug\ProjectTemplates\CSharp\1033\shopeeTest.zip
-C:\Users\danhn\OneDrive\Máy tính\auto\shopee\shopeeTest\shopeeTest\obj\Debug\shopeeTest.csprojAssemblyReference.cache
-C:\Users\danhn\OneDrive\Máy tính\auto\shopee\shopeeTest\shopeeTest\obj\Debug\_EmptyResource.resources
-C:\Users\danhn\OneDrive\Máy tính\auto\shopee\shopeeTest\shopeeTest\obj\Debug\shopeeTest.csproj.GenerateResource.cache
-C:\Users\danhn\OneDrive\Máy tính\auto\shopee\shopeeTest\shopeeTest\obj\Debug\shopeeTest.csproj.CoreCompileInputs.cache
-C:\Users\danhn\OneDrive\Máy tính\auto\shopee\shopeeTest\shopeeTest\obj\Debug\CSharp\1033\shopeeTest.zip
-C:\Users\danhn\OneDrive\Máy tính\auto\shopee\shopeeTest\shopeeTest\obj\Debug\shopeeTest.dll
-C:\Users\danhn\OneDrive\Máy tính\auto\shopee\shopeeTest\shopeeTest\obj\Debug\shopeeTest.pdb
